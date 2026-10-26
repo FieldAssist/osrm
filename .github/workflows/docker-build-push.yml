@@ -59,6 +59,8 @@ jobs:
             url: 'https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf'
           - name: 'brunei'
             url: 'https://download.geofabrik.de/asia/malaysia-singapore-brunei-latest.osm.pbf'
+          - name: 'kenya'
+            url: 'https://download.geofabrik.de/africa/kenya-latest.osm.pbf'
     permissions:
       packages: write
       contents: read
